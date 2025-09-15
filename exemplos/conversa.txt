@@ -1,0 +1,10 @@
+Usuário: criar tarefa
+Copiloto: Perfeito! Vamos criar uma nova tarefa.
+
+
+Usuário: ver tarefas
+Copiloto: Aqui estão suas tarefas atuais.
+
+
+Usuário: xyz123
+Copiloto: Desculpe, não entendi "xyz123". Por favor, escolha uma das opções disponíveis.
